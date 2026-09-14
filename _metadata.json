@@ -1,0 +1,76 @@
+{
+  "hash": "823df44c",
+  "configHash": "4bd5cff0",
+  "lockfileHash": "1c5d18fb",
+  "browserHash": "06249837",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "540de30c",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "8a70776b",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "97c33146",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "fc3ec99e",
+      "needsInterop": true
+    },
+    "canvas-confetti": {
+      "src": "../../canvas-confetti/dist/confetti.module.mjs",
+      "file": "canvas-confetti.js",
+      "fileHash": "ad658f18",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "4ed00131",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "259d1847",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "9641a709",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "fc79c300",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-6PXSGDAH": {
+      "file": "chunk-6PXSGDAH.js"
+    },
+    "chunk-NXESFFTV": {
+      "file": "chunk-NXESFFTV.js"
+    },
+    "chunk-DRWLMN53": {
+      "file": "chunk-DRWLMN53.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
